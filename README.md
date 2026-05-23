@@ -8,7 +8,7 @@ A lightweight, high-performance web API built with [FastAPI](https://fastapi.tia
 * **Interactive API Docs:** Automatic Swagger UI generation (accessible at `/docs`).
 * **Alternative API Docs:** Automatic ReDoc generation (accessible at `/redoc`).
 * **Data Validation:** Automatic request and response validation using Python type hints.
-*
+
 
 ## 🛠️ Tech Stack
 
